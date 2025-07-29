@@ -1,7 +1,7 @@
 {
-  "username": "YOUR_GITHUB_USERNAME",
-  "repository": "YOUR_REPO_NAME",
-  "description": "Configuration for GitHub deployment. Update these values when using this template.",
+  "username": "isnbh0",
+  "repository": "toybox-250730",
+  "description": "Configuration for isnbh0's TOYBOX deployment",
   "customization": {
     "siteName": "TOYBOX",
     "siteDescription": "A collection of Claude-generated artifacts",
